@@ -5,4 +5,4 @@ Based on this code https://github.com/FrancescoBonizzi/WebcamControl-WPF-With-Op
 
 I have changed Webcam discovery to IP cam ONVIF discovery with WCF Discovery
 
-![GitHub Logo](Screenshot 2020-11-03 105648.png)
+![GitHub Logo](Screenshot_2020-11-03_105648.png)
