@@ -59,7 +59,7 @@
             VerticalAlignment="Center"
             BorderBrush="Black"
             BorderThickness="2" Grid.ColumnSpan="2" Margin="0,0,0,58.333" Grid.RowSpan="2">
-            <Image x:Name="webcamPreview" Grid.Row="0" Margin="-2,39,-2,-38.667" />
+            <Image x:Name="webcamPreview" Grid.Row="0" Margin="-12,-2,8,2.333" />
         </Border>
 
         <StackPanel
